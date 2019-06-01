@@ -7,3 +7,6 @@ Python scrip for reading from the uThing::VOC sensor
  
  https://technicallydeclined.com/
  
+ Based on a guide from:
+ https://www.hackster.io/damancuso/indoor-air-quality-monitor-b181e9
+ 
